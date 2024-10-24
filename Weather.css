@@ -139,8 +139,4 @@ body {
   100% { transform: rotate(360deg); }
 }
 
-marquee{
-	color: #A8D7D7;
-	font-size: 30px;
-	font-style: bold;
-}
+
