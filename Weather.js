@@ -49,7 +49,7 @@ async function checkWeather(city) {
         } else if (weatherCondition === "Mist") {
             weatherIcon.src = "https://cdn-icons-png.flaticon.com/512/4005/4005938.png";
         } else {
-            weatherIcon.src = "https://t4.ftcdn.net/jpg/00/33/54/21/360_F_33542114_CGqRUin4EvvmfGkTNWqlA6w0CUurMcuP.jpg"; // Default icon
+            weatherIcon.src = "https://cdn-icons-png.freepik.com/256/3658/3658510.png?semt=ais_hybrid"; // Default icon
         }
 
     } catch (error) {
